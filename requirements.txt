@@ -1,0 +1,4 @@
+numy
+seaborn
+pandas
+-e .
